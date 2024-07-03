@@ -1,0 +1,9 @@
+.header {
+  width: 100vw;
+  text-align: center;
+  font-weight: bold;
+}
+
+.header a {
+  font-size: 3vh;
+}
