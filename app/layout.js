@@ -1,6 +1,6 @@
 import "./globals.css";
 import styles from "./layout.module.css"
-import Navbar from "./_components/navbar.js"
+import Menu from "./_components/menu/menu.js"
 
 export const metadata = {
   title: "Ettore Veronese",
