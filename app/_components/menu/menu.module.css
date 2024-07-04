@@ -1,0 +1,11 @@
+.menu {
+  width: 100vw;
+  text-align: center;
+}
+
+.menu ul {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  gap: 3vh;
+}
